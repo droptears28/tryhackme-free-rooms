@@ -58,7 +58,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
@@ -90,7 +90,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Linux Fundamentals
 
 - [ ] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - [ ] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
       In case you need deeper study into Linux read follow these:
 - [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
@@ -168,14 +168,14 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/rpmetasploit)
 - [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- [x] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 - [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 - [ ] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 - [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 - [ ] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 - [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 - [ ] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
-- [ ] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [x] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 - [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 - [ ] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 - [ ] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
@@ -437,7 +437,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 - [ ] [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 - [ ] [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
-- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [x] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 - [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 - [ ] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 - [ ] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
