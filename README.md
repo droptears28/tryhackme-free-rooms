@@ -79,9 +79,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 - [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
@@ -89,7 +89,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Linux Fundamentals
 
-- [ ] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - [ ] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
       In case you need deeper study into Linux read follow these:
