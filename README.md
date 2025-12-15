@@ -69,7 +69,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
-- [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
+- [x] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 - [ ] [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 - [ ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
@@ -83,7 +83,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 - [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
@@ -98,9 +98,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Windows Fundamentals
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
